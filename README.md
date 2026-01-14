@@ -12,7 +12,6 @@
   <img src="https://raw.githubusercontent.com/Andres6936/Andres6936/main/assets/sparkle-line.gif" width="85%">
 </p>
 
-## 🌸 Kawaii + Neon Badges  
 <p align="center">
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-FFB7ED?style=for-the-badge&logo=sparkles&logoColor=white">
   <img src="https://img.shields.io/badge/Machine%20Learning-9B59B6?style=for-the-badge&logo=tensorflow&logoColor=white">
