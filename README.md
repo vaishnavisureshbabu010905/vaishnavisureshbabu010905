@@ -1,8 +1,4 @@
-<!-- Anime Avatar -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vaishnavisureshbabu010905/vaishnavisureshbabu010905/main/anime.png" 
-       alt="Anime Avatar" width="220" style="border-radius: 20px;">
-</p>
+
 
 <!-- Animated Gradient Title -->
 <h1 align="center">
